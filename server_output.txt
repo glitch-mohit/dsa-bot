@@ -1,0 +1,7 @@
+✅ Gemini AI initialized
+
+🚀 Server running on http://localhost:3000
+📱 Open your browser and go to: http://localhost:3000
+
+🔄 Trying model: gemini-2.5-flash
+✅ Successfully used model: gemini-2.5-flash
